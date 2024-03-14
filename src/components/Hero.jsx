@@ -24,7 +24,7 @@ const Hero = () => {
         };
       }, []);
     return (
-        <div className='w-full py-48 m-auto primary-color md:max-w-[1780px] max-w-[600px] m-auto'>
+        <div className='w-full py-0 m-auto primary-color md:max-w-[1780px] max-w-[600px] m-auto py-48'>
             <div className='md:max-w-[1780px] m-auto grid md:grid-cols-2 max-w-[600px]  px-4 md:px-14'>
 
                 <div className='flex flex-col justify-center gap-4'>
