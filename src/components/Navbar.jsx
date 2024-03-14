@@ -36,7 +36,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="hidden md:flex">
-          <a href="https://drive.google.com/file/d/1vf-tkUTODJq1E8NxJj1_IoNW6uFLjs20/view?usp=share_link" target="_blank" className="p-3 rounded-md font-bold" style={{ backgroundColor: colors.orange }}>Resume ↓</a>
+          <a href="https://doc-14-7g-prod-00-apps-viewer.googleusercontent.com/viewer2/prod-00/pdf/s1ngntqcjv2qb8jrcv16t48t8q4iumf6/skmmri6r3iqfqjnrko1gglkrgrl955sk/1710390225000/3/113068782784772307179/APznzaa5QaexaM8YSuRPnufaUN-eRZV8BZ7iru-Yd4U7EzG06OdsypkMFPYnJt1iSXTScSXpCP8Q8JenXj4AlVnTDN18cRdIA6Nes791L_Bk9Ifj5-dIrfp99bLcLflzp4HSJiyTfP2S7A65E2cIegYEbgz4f8r55eC-dA_XFtl8bzODpqa4Y7EwcE7rJ9070ODTAG187QEny31t8NmoM1a84_z8YW-xKCyFcYCL_xz4lsiHbyBHCWk5kIISJIQAUNTJqpxb_nBEXG7B9brz4v0-W2e_uPuuxmz-dKgop_TagdSU_4yXkkIlAsRKJ010U-bBZpapDzyfK1p_BkkNRRYQVfxLhgGVjbZExV1mmiUY8HROoXRacHs87JDa4iZ5L8VLFFTvNM9OiCs7p5xPZ5XrbjD2z4M7cw==?authuser=0&nonce=pcicbv4mtneb8&user=113068782784772307179&hash=l2aac9alvktmt9kvbim692dh1nh9b1ov" target="_blank" className="p-3 rounded-md font-bold" style={{ backgroundColor: colors.orange }}>Resume ↓</a>
         </div>
 
         <div className="md:hidden bg-orange-300" onClick={handleClick}>
@@ -50,7 +50,7 @@ const Navbar = () => {
           <a href="#projects" className="p-4 hover:bg-[#ee7600]">Projects</a>
           <a href="#contact" className="p-4 hover:bg-[#ee7600]">Contact</a>
           <div className="flex flex-col my-4 gap-4">
-            <a href="https://drive.google.com/file/d/1vf-tkUTODJq1E8NxJj1_IoNW6uFLjs20/view?usp=share_link" target="_blank" className="px-8 py-3 text-center rounded-md bg-[#ee7600] font-bold">Resume ↓</a>
+            <a href="https://doc-14-7g-prod-00-apps-viewer.googleusercontent.com/viewer2/prod-00/pdf/s1ngntqcjv2qb8jrcv16t48t8q4iumf6/skmmri6r3iqfqjnrko1gglkrgrl955sk/1710390225000/3/113068782784772307179/APznzaa5QaexaM8YSuRPnufaUN-eRZV8BZ7iru-Yd4U7EzG06OdsypkMFPYnJt1iSXTScSXpCP8Q8JenXj4AlVnTDN18cRdIA6Nes791L_Bk9Ifj5-dIrfp99bLcLflzp4HSJiyTfP2S7A65E2cIegYEbgz4f8r55eC-dA_XFtl8bzODpqa4Y7EwcE7rJ9070ODTAG187QEny31t8NmoM1a84_z8YW-xKCyFcYCL_xz4lsiHbyBHCWk5kIISJIQAUNTJqpxb_nBEXG7B9brz4v0-W2e_uPuuxmz-dKgop_TagdSU_4yXkkIlAsRKJ010U-bBZpapDzyfK1p_BkkNRRYQVfxLhgGVjbZExV1mmiUY8HROoXRacHs87JDa4iZ5L8VLFFTvNM9OiCs7p5xPZ5XrbjD2z4M7cw==?authuser=0&nonce=pcicbv4mtneb8&user=113068782784772307179&hash=l2aac9alvktmt9kvbim692dh1nh9b1ov" target="_blank" className="px-8 py-3 text-center rounded-md bg-[#ee7600] font-bold">Resume ↓</a>
           </div>
         </ul>
       </div>
