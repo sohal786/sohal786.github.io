@@ -27,8 +27,8 @@ const Hero = () => {
         <div className=' w-full py-48  m-auto primary-color md:max-w-[1780px] max-w-[600px] m-auto py-48'>
             <div className=' md:max-w-[1780px] m-auto grid md:grid-cols-2 max-w-[600px]  px-4 md:px-14'>
 
-                <div className='flex flex-col justify-center gap-4'>
-                    <p className='  py-0 md:py-2 text-2xl font-medium' style={{ color: colors.white }}>Welcome to my Personal Website!</p>
+                <div className='flex flex-col justify-center gap-2 md:gap-4'>
+                    <p className='text-l md: py-0 md:py-2 text-2xl font-medium' style={{ color: colors.white }}>Welcome to my Personal Website!</p>
                     <h1 className='md:leading-[72px] py-2 md:text-6xl text-5xl font-semibold'>
                         <span ref={el} style={{ color: colors.white }}></span>
                      </h1>
