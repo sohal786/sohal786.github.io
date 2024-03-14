@@ -43,7 +43,7 @@ export default function App() {
         </button>
       )}
       <MapCanvas />
-      <div className="overlay-content">
+      <div className="overlay-content overlay-content flex flex-col gap-10">
         <Navbar />
         <Hero />
       </div>
