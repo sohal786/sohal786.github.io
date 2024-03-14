@@ -28,12 +28,12 @@ const Hero = () => {
             <div className=' w-full md:max-w-[1780px] m-auto grid md:grid-cols-2 max-w-[600px]  px-4 md:px-14'>
 
                 <div className='flex flex-col justify-center gap-4'>
-                    <p className='sm:text-xs md:text-xl lg:text-2xl py-0 md block text-2xl font-medium' style={{ color: colors.white }}>Welcome to my Personal Website!</p>
-                    <h1 className='sm:text-xl md:text-5xl lg:text-6xl leading-[72px] lg: text-6xl text-5xl font-semibold'>
+                    <p className='sm:text-s md:text-xl py-0 md block font-medium' style={{ color: colors.white }}>Welcome to my Personal Website!</p>
+                    <h1 className='sm:text-3xl leading-[72px] md:text-6xl  font-semibold'>
                         <span ref={el} style={{ color: colors.white }}></span>
                      </h1>
-                    <p className='sm:text-base md:text-l lg:text-2xl  text-lg text-gray-600' style={{ color: colors.orange }}>Software Developer</p>
-                    <p className='sm:text-base md:text-l lg:text-2xl  text-lg text-gray-600' style={{ color: colors.orange }}>San Francisco, CA</p>
+                    <p className=' text-lg text-gray-600' style={{ color: colors.orange }}>Software Developer</p>
+                    <p className=' text-lg text-gray-600' style={{ color: colors.orange }}>San Francisco, CA</p>
 
                     {/* <img src='ME.png'className='icon p-bottom-0 hidden md:flex' ></img> */}
                     {/* <p className='py-2 text-lg text-gray-600' style={{ color: colors.accent }}>Navigating the Future of Tech: A SF State Grad’s Quest for Innovation in Software Development.</p> */}
