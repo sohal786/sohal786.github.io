@@ -1,0 +1,29 @@
+html{
+  scroll-behavior: smooth;
+}
+#map {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1; /* Places the canvas behind other content */
+}
+
+.overlay-content {
+  position: relative;
+  height: 95vh;
+  /* margin-bottom: 200px; */
+  z-index: 1; /* Higher than the canvas */
+  /* Rest of your styling */
+}
+
+span{
+  /* color: #ee7600; */
+  color: #ffd700;
+}
+
+.icon{
+  width: 200px;
+}
+
