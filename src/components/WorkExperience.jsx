@@ -8,7 +8,7 @@ const WorkExperience = () => {
                 <h2 className='text-7xl font-medium' style={{ color: colors.white }}>Work Experience</h2>
                 {/* First Job Experience - Image on the right */}
                 <div className='flex order flex-col md:flex-row-reverse justify-between items-center gap-10 py-10'>
-                    <img src="./AMAT.png" alt="First Company Logo" className="flex w-[20%]" />
+                    <img src="./AMAT.png" alt="First Company Logo" className="flex w-[100%] md:w-[30%]" />
                     <div>
                         <h3 className='text-3xl py-5 font-semibold' style={{ color: colors.orange }}>Image and Data Analysis Engineer Intern</h3>
                         <h3 className='text-xl font-semibold' style={{ color: "#ffd700" }}>Applied Materials</h3>
@@ -38,7 +38,7 @@ const WorkExperience = () => {
                 </div>
                 {/* Second Job Experience - Image on the left */}
                 <div className='flex flex-col md:flex-row justify-between items-center gap-10 py-10'>
-                    <img src="./SFH.svg" alt="Second Company Logo" className="flex w-[20%]" />
+                    <img src="./SFH.svg" alt="Second Company Logo" className="flex w-[80%] md:w-[20%]" />
                     <div>
                         <h3 className='text-3xl py-5 font-semibold' style={{ color: colors.orange }}>Software Developer</h3>
                         <h3 className='text-xl font-semibold' style={{ color: "#ffd700" }}>SF Hacks</h3>
@@ -62,7 +62,7 @@ const WorkExperience = () => {
 
                 {/* Third Job */}
                 <div className='flex order flex-col md:flex-row-reverse justify-between items-center gap-10 py-10'>
-                    <img src="./sfsu.png" alt="First Company Logo" className="flex w-[20%]" />
+                    <img src="./sfsu.png" alt="First Company Logo" className=" flex w-[50%]" />
                     <div>
                         <h3 className='text-3xl py-5 font-semibold' style={{ color: colors.orange }}>Computer Science Tutor</h3>
                         <h3 className='text-xl font-semibold' style={{ color: "#ffd700" }}>San Francisco State University</h3>
