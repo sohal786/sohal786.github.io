@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import * as THREE from 'three';
 import textureImage from './map.png'; // Replace with your texture path
-import Hero from './Hero';
+// import Hero from './Hero';
 import colors from './colors';
 
 const MapCanvas = () => {

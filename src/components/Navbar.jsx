@@ -36,7 +36,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="hidden md:flex">
-          <a href="https://drive.google.com/file/d/1vf-tkUTODJq1E8NxJj1_IoNW6uFLjs20/view?usp=share_link" target="_blank" className="p-3 rounded-md font-bold" style={{ backgroundColor: colors.orange }}>Resume ↓</a>
+          <a href="/images/resume.pdf" target="_blank" className="p-3 rounded-md font-bold" style={{ backgroundColor: colors.orange }}>Resume ↓</a>
         </div>
 
         <div className="md:hidden bg-orange-300" onClick={handleClick}>
@@ -50,7 +50,7 @@ const Navbar = () => {
           <a href="#projects" className="p-4 hover:bg-[#ee7600]">Projects</a>
           <a href="#contact" className="p-4 hover:bg-[#ee7600]">Contact</a>
           <div className="flex flex-col my-4 gap-4">
-            <a href="https://drive.google.com/file/d/1vf-tkUTODJq1E8NxJj1_IoNW6uFLjs20/view?usp=share_link" target="_blank" className="px-8 py-3 text-center rounded-md bg-[#ee7600] font-bold">Resume ↓</a>
+            <a href="/images/resume.pdf" target="_blank" className="px-8 py-3 text-center rounded-md bg-[#ee7600] font-bold">Resume ↓</a>
           </div>
         </ul>
       </div>
