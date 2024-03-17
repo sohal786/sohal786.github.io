@@ -50,7 +50,7 @@ const Navbar = () => {
           <a href="#projects" className="p-4 hover:bg-[#ee7600]">Projects</a>
           <a href="#contact" className="p-4 hover:bg-[#ee7600]">Contact</a>
           <div className="flex flex-col my-4 gap-4">
-            <a href="/SAVY_DHILLON.pdf" target="_blank" className="px-8 py-3 text-center rounded-md bg-[#ee7600] font-bold">Resume ↓</a>
+            <a href="/SAVY_DHILLON_RESUME.pdf" target="_blank" className="px-8 py-3 text-center rounded-md bg-[#ee7600] font-bold">Resume ↓</a>
           </div>
         </ul>
       </div>
