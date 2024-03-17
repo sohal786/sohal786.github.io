@@ -14,24 +14,24 @@ const WorkExperience = () => {
                         <h3 className='text-xl font-semibold' style={{ color: "#ffd700" }}>Applied Materials</h3>
                         <ul className='list-disc'>
                         <li className='text-white-600'>
-                                <p>Engineered an Innovative Inspection System for monitoring real-time video feed.</p>
+                                <p>Developed a real-time video monitoring system, reducing manual inspections by 75%, significantly enhancing operational efficiency in manufacturing.</p>
                             </li>
 
                             <li className='text-white-600'>
-                                <p>Boosted Anomaly Detection precision by 90% enhancing efficiency and accuracy.</p>
+                                <p>Boosted manufacturing efficiency and accuracy by 90%, improving quality control and minimizing defects.</p>
                             </li>
 
                             <li className='text-white-600'>
-                                <p>Integrated the Software with the machine enabling real-time alerts that prevented 100% potential machine failures.</p>
+                                <p>Engineered a Python-based alert system, achieving 100% machine failure prevention by integrating with CNC machinery for predictive maintenance, eliminating unscheduled downtime.</p>
                             </li>
 
 
                             <li className='text-white-600'>
-                                <p>Spearheaded the Design and Development of Inspection App along with Artificial Intelligence Model training.</p>
+                                <p>Provided process analytics, improving operational insight and yield using Python for advanced data analysis, supporting data-driven decision-making.</p>
                             </li>
 
                             <li className='text-white-600'>
-                                <p>Automated repetitive processing tasks, saving approximately 40 hours of staff time per week</p>
+                                <p>Conducted ongoing research into the latest developments in the field, integrating cutting-edge methodologies and technologies into our processes to continually enhance our model's performance and efficiency.</p>
                             </li>
                         </ul>
                     </div>
@@ -44,16 +44,16 @@ const WorkExperience = () => {
                         <h3 className='text-xl font-semibold' style={{ color: "#ffd700" }}>SF Hacks</h3>
                         <ul className='list-disc'>
                         <li className='text-white-600'>
-                                <p>Contributed to the development of the website ensuring an enhanced user experience.</p>
+                                <p>Elevated user experience on the SF Hacks website, by implementing responsive design principles and optimizing performance, resulting in a 30% increase in user engagement, using HTML5, CSS3, and JavaScript.</p>
                             </li>
 
                             <li className='text-white-600'>
-                                <p>Worked with the Designers to keep the website updated with the most recent information.</p>
+                                <p>Collaborated with designers to maintain up-to-the-minute website accuracy, ensuring the integration of real-time updates and event information.</p>
                             </li>
 
 
                             <li className='text-white-800'>
-                                <p>Organized a 3-day hackathon at the SFSU campus accommodating hackers from all over the bay area.</p>
+                                <p>Organized a successful 3-day hackathon at SFSU, accommodating 200+ Bay Area hackers, streamlining logistics to enhance participant experience.</p>
                             </li>
                         </ul>
                     </div>
