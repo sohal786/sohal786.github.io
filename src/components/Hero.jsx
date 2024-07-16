@@ -29,7 +29,7 @@ const Hero = () => {
                         <h1 className='text-4xl leading-[72px] md:text-6xl font-semibold'>
                             <span ref={el} style={{ color: colors.white }}></span>
                         </h1>
-                        <a href="/tutor_resume.pdf" target="_blank" className="bg-black hover:bg-gray-800 transition-colors px-6 py-2 rounded-md text-lg font-bold text-white" style={{ alignSelf: 'center', marginLeft: 'auto' }}>
+                        <a href="/Akshat_Sohal_Resume.pdf" target="_blank" className="bg-black hover:bg-gray-800 transition-colors px-6 py-2 rounded-md text-lg font-bold text-white" style={{ alignSelf: 'center', marginLeft: 'auto' }}>
                             Resume
                         </a>
                     </div>
